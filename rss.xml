@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BEZZTRAINING]]></title>
         <description><![CDATA[BEZZTRAINING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bezztraining.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 03:00:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 03:02:37 GMT</lastBuildDate>
+        <atom:link href="http://bezztraining.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BEZZTRAINING]]></title>
+            <description><![CDATA[<article><h1>BEZZTRAINING</h1><h2>BEZZ TRAINING™is a personal trainingprogram designed with the client,for the client.Discover the athlete within!</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f65b8c67ce5c17c167261dd05b1a90f872217ee.jpg"></article>]]></description>
+            <link>http://bezztraining.com/bezztraining/index.html</link>
+            <guid isPermaLink="false">75e2a249-82a5-4746-83a0-ef0b129b3ee2</guid>
+            <pubDate>Thu, 28 Jan 2016 02:52:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BEZZ TRAINING]]></title>
-            <description><![CDATA[<article><h1>BEZZ TRAINING</h1><p>Strength Coach, Personal Trainer , Performance Specialist. FREE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55db5ce8e13c2140583961d17bd4a994c5af8298.jpg"></article>]]></description>
-            <link>undefinedbezz-training/index.html</link>
+            <description><![CDATA[<article><h1>BEZZ TRAINING</h1><p>Strength Coach, Personal Trainer , Performance Specialist. FREE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da7e4842770706ab757d4f4251ce0a2263490875.jpg"></article>]]></description>
+            <link>http://bezztraining.com/bezz-training/index.html</link>
             <guid isPermaLink="false">568c7e4f-d983-454e-aae8-810f92057193</guid>
             <pubDate>Thu, 28 Jan 2016 02:52:55 GMT</pubDate>
         </item>
