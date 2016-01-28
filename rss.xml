@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BEZZTRAINING]]></title>
+        <description><![CDATA[BEZZTRAINING]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 03:00:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BEZZ TRAINING]]></title>
+            <description><![CDATA[<article><h1>BEZZ TRAINING</h1><p>Strength Coach, Personal Trainer , Performance Specialist. FREE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55db5ce8e13c2140583961d17bd4a994c5af8298.jpg"></article>]]></description>
+            <link>undefinedbezz-training/index.html</link>
+            <guid isPermaLink="false">568c7e4f-d983-454e-aae8-810f92057193</guid>
+            <pubDate>Thu, 28 Jan 2016 02:52:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
